@@ -16,6 +16,8 @@ dependencies:
     sdk: flutter
   flare_flutter: ^3.0.2
   delayed_display: ^2.0.0
+  auto_animated: ^3.0.1
+  d_chart: ^0.0.4
 
 
   
