@@ -18,6 +18,13 @@ dependencies:
   delayed_display: ^2.0.0
   auto_animated: ^3.0.1
   d_chart: ^0.0.4
+  card_loading: ^0.1.4
+  awesome_card: ^1.1.7
+  flutter_onboarding_slider: ^1.0.7
+  flutter_staggered_animations: "^1.0.0"
+
+
+
 
 
   
